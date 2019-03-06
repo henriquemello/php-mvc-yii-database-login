@@ -23,6 +23,8 @@ or
 php -S localhost:8080
 ```
 
+## How to:
+Go to "login" link on the top and try your username and password you already inserted on table called "acesso"
 
 ### 
 Have a nice day! 
